@@ -9,22 +9,24 @@ header {
 }
 
 section {
+    padding-left: 20%;
     margin-bottom: 20px;
 }
 
 footer {
+    padding-left: 20%;
     background-color: #f0f0f0;
     color: #000;
     text-align: center;
     padding: 20px;
-    margin-top: 20px; /* Adds space between the main content and the footer */
+    margin-top: 20px;
 }
 
 footer a {
-    color: #6FD0E5; /* Bright color for links */
-    text-decoration: none; /* Optional: removes underline from links */
+    color: #6FD0E5; 
+    text-decoration: none;
 }
 
 footer a:hover {
-    text-decoration: underline; /* Adds an underline on hover for better accessibility */
+    text-decoration: underline;
 }
