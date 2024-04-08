@@ -11,12 +11,10 @@ header {
 section {
     padding-left: 10%;
     padding-right: 10%;
-    padding-bottom: 20%;
     margin-bottom: 15%;
 }
 
 footer {
-    padding: 15% 10%;
     background-color: #ffffff;
     color: #000;
     text-align: center;
