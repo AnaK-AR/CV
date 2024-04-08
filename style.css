@@ -11,15 +11,14 @@ header {
 section {
     padding-left: 10%;
     padding-right: 10%;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
 }
 
 footer {
     background-color: #ffffff;
     color: #000;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
 }
 
 footer a {
