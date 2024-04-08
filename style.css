@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-color: #ffff;
+    background-color: #ffffff;
     padding: 20px;
     text-align: center;
 }
@@ -12,15 +12,14 @@ section {
     padding-left: 10%;
     padding-right: 10%;
     padding-bottom: 20%;
+    margin-bottom: 15%;
 }
 
 footer {
-    padding-left: 10%;
-    padding-right: 10%;
-    background-color: #ffff;
+    padding: 15% 10%;
+    background-color: #ffffff;
     color: #000;
     text-align: center;
-    padding: 20px;
     margin-top: 20px;
 }
 
